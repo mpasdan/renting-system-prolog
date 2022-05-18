@@ -1,5 +1,6 @@
 University Project in course: Computational Logic and Logical Programming
-###TASKS:
+
+##TASKS:
 * compatible_house()
 * compatible_houses()
 * find_best_house()
