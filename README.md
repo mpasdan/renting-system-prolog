@@ -1,8 +1,8 @@
 University Project in course: Computational Logic and Logical Programming
 
 ##TASKS:
-* compatible_house()
-* compatible_houses()
+* <s>compatible_house()</s>
+* <s>compatible_houses()</s>
 * find_best_house()
 * <s>find_cheaper().</s>
 * <s>find_cheaper().</s>
